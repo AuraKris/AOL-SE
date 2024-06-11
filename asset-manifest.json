@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/AOL-SE/static/css/main.05018aec.css",
-    "main.js": "/AOL-SE/static/js/main.00275e09.js",
+    "main.js": "/AOL-SE/static/js/main.d65721e6.js",
     "index.html": "/AOL-SE/index.html",
     "main.05018aec.css.map": "/AOL-SE/static/css/main.05018aec.css.map",
-    "main.00275e09.js.map": "/AOL-SE/static/js/main.00275e09.js.map"
+    "main.d65721e6.js.map": "/AOL-SE/static/js/main.d65721e6.js.map"
   },
   "entrypoints": [
     "static/css/main.05018aec.css",
-    "static/js/main.00275e09.js"
+    "static/js/main.d65721e6.js"
   ]
 }
